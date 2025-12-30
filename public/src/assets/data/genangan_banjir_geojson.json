@@ -1,0 +1,3053 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.41719818096273, 0.57465901100398398]
+      },
+      "properties": {
+        "FID": 0,
+        "Alamat_Dom": "Jln Umban Sari Atas, gang Geso III",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.57465901100399996,
+        "Longitude": 101.417198181,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 3,
+        "Status_Tot": "Tidak Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.39676617975823, 0.59633463684397392]
+      },
+      "properties": {
+        "FID": 1,
+        "Alamat_Dom": "jalan sri palas",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.59633463684400001,
+        "Longitude": 101.39676618,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47395795999326, 0.57833808459834779]
+      },
+      "properties": {
+        "FID": 2,
+        "Alamat_Dom": "Kelurahan Lembah Sari",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.57833808459799996,
+        "Longitude": 101.47395796000001,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.39743830674723, 0.6090373339801457]
+      },
+      "properties": {
+        "FID": 3,
+        "Alamat_Dom": "Jl.Tengku Maratu kelurahan Marani",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.60903733398000004,
+        "Longitude": 101.397438307,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.45713959640831, 0.57285295333511688]
+      },
+      "properties": {
+        "FID": 4,
+        "Alamat_Dom": "Jl. Family, pramuka ujung",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air, Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.57285295333499997,
+        "Longitude": 101.457139596,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 3,
+        "Status_Tot": "Tidak Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4528393743571, 0.56352034644296523]
+      },
+      "properties": {
+        "FID": 5,
+        "Alamat_Dom": "jalan H.M Nur",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.56352034644299998,
+        "Longitude": 101.45283937400001,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47356233942679, 0.57628348304148724]
+      },
+      "properties": {
+        "FID": 6,
+        "Alamat_Dom": "lembah sari",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.57628348304099997,
+        "Longitude": 101.473562339,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.46118457773738, 0.56441323822378486]
+      },
+      "properties": {
+        "FID": 7,
+        "Alamat_Dom": "Mulya jaya",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Ukuran saluran drainase/parit terlalu kecil untuk menampung air, Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.56441323822400002,
+        "Longitude": 101.461184578,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4712251779121, 0.5588506514917787]
+      },
+      "properties": {
+        "FID": 8,
+        "Alamat_Dom": "putri ayu",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.55885065149199997,
+        "Longitude": 101.471225178,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4681186607253, 0.56997200000000647]
+      },
+      "properties": {
+        "FID": 9,
+        "Alamat_Dom": "Perum perdana limbungan",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.56997200000000003,
+        "Longitude": 101.46811866100001,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.46041406441758, 0.55926735319840215]
+      },
+      "properties": {
+        "FID": 10,
+        "Alamat_Dom": "jalan teluk leok",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.55926735319800003,
+        "Longitude": 101.46041406400001,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.45069473000083, 0.56162048530259201]
+      },
+      "properties": {
+        "FID": 11,
+        "Alamat_Dom": "gg kenanga",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.56162048530300002,
+        "Longitude": 101.45069473,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.45713019874123, 0.56155715996616529]
+      },
+      "properties": {
+        "FID": 12,
+        "Alamat_Dom": "jalan teluk leok",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.56155715996599997,
+        "Longitude": 101.45713019900001,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.45667307975822, 0.56516788133918472]
+      },
+      "properties": {
+        "FID": 13,
+        "Alamat_Dom": "Jl. Limbungan komplek BPD",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air, Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.56516788133899998,
+        "Longitude": 101.45667308,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.46832000000001, 0.53812000000000004]
+      },
+      "properties": {
+        "FID": 14,
+        "Alamat_Dom": "Pekanbaru",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.53812000000000004,
+        "Longitude": 101.46832000000001,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.3772285559189, 0.62005963344092818]
+      },
+      "properties": {
+        "FID": 15,
+        "Alamat_Dom": "Kelurahan Rumbai Bukit",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.62005963344100001,
+        "Longitude": 101.37722855600001,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44529697975821, 0.56782715294619368]
+      },
+      "properties": {
+        "FID": 16,
+        "Alamat_Dom": "Jl.family",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air, Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.56782715294599995,
+        "Longitude": 101.44529697999999,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4424199888674, 0.564063634822214]
+      },
+      "properties": {
+        "FID": 17,
+        "Alamat_Dom": "limbungan baru",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.56406363482199995,
+        "Longitude": 101.442419989,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.43461132815469, 0.5657913518261789]
+      },
+      "properties": {
+        "FID": 18,
+        "Alamat_Dom": "Jl.family",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.56579135182600004,
+        "Longitude": 101.434611328,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.46822, 0.53802000000000005]
+      },
+      "properties": {
+        "FID": 19,
+        "Alamat_Dom": "Pekanbaru",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.53802000000000005,
+        "Longitude": 101.46822,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 5,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47449564094877, 0.56819335642017887]
+      },
+      "properties": {
+        "FID": 20,
+        "Alamat_Dom": "Jl.Pramuka Ujung",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.56819335642000002,
+        "Longitude": 101.474495641,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4637353240656, 0.56912269325950327]
+      },
+      "properties": {
+        "FID": 21,
+        "Alamat_Dom": "Jl.limbungan",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.56912269325999998,
+        "Longitude": 101.463735324,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47137906034123, 0.55904039021449203]
+      },
+      "properties": {
+        "FID": 22,
+        "Alamat_Dom": "Jl putri ayu",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.55904039021399998,
+        "Longitude": 101.47137906,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 5,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.46009824894536, 0.5671272278925481]
+      },
+      "properties": {
+        "FID": 23,
+        "Alamat_Dom": "jln limbungan",
+        "Kecamatan": "Kec. Rumbai Timur",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.56712722789299996,
+        "Longitude": 101.460098249,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 3,
+        "Status_Tot": "Tidak Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42550192208792, 0.56536579639143592]
+      },
+      "properties": {
+        "FID": 24,
+        "Alamat_Dom": "Jalan tegal sari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air, Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.56536579639100004,
+        "Longitude": 101.425501922,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.43816237791208, 0.56947403967244192]
+      },
+      "properties": {
+        "FID": 25,
+        "Alamat_Dom": "Jl Paus",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.56947403967200005,
+        "Longitude": 101.438162378,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 3,
+        "Status_Tot": "Tidak Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4199837049011, 0.58625795239016398]
+      },
+      "properties": {
+        "FID": 26,
+        "Alamat_Dom": "Villa Arima Garden Rumbai",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.58625795239,
+        "Longitude": 101.41998370500001,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 3,
+        "Status_Tot": "Tidak Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": { "type": "Point", "coordinates": [101.43392, 0.52381] },
+      "properties": {
+        "FID": 27,
+        "Alamat_Dom": "Pekanbaru",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air, Kurangnya area resapan air (sudah banyak semen/bangunan), Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.52381,
+        "Longitude": 101.43392,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 5,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44124829325274, 0.56061948148140861]
+      },
+      "properties": {
+        "FID": 28,
+        "Alamat_Dom": "Jl Khayangan Rumbai",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.56061948148100005,
+        "Longitude": 101.441248293,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.43411, 0.52376999999999996]
+      },
+      "properties": {
+        "FID": 29,
+        "Alamat_Dom": "Pekanbaru",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.52376999999999996,
+        "Longitude": 101.43411,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.39724672496605, 0.61000538860511444]
+      },
+      "properties": {
+        "FID": 30,
+        "Alamat_Dom": "Rumbai",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air, Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.61000538860499998,
+        "Longitude": 101.397246725,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 3,
+        "Status_Tot": "Tidak Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.38626039775916, 0.60039288795699985]
+      },
+      "properties": {
+        "FID": 31,
+        "Alamat_Dom": "Rumbai",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.60039288795699997,
+        "Longitude": 101.386260398,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4173076337363, 0.57979992430016514]
+      },
+      "properties": {
+        "FID": 32,
+        "Alamat_Dom": "Umban sari atas",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air, Kondisi saluran drainase/parit rusak atau tertutup bangunan, Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.57979992430000005,
+        "Longitude": 101.417307634,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 3,
+        "Status_Tot": "Tidak Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42329545092306, 0.57732708291302004]
+      },
+      "properties": {
+        "FID": 33,
+        "Alamat_Dom": "Patria Sari, Umbansari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.57732708291299994,
+        "Longitude": 101.423295451,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 5,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42299592935721, 0.55370336365238582]
+      },
+      "properties": {
+        "FID": 34,
+        "Alamat_Dom": "Pekanbaru",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.55370336365200001,
+        "Longitude": 101.422995929,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42148604907693, 0.56181862304628993]
+      },
+      "properties": {
+        "FID": 35,
+        "Alamat_Dom": "tegal sari gang mekar sari 4",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air, Kondisi saluran drainase/parit rusak atau tertutup bangunan, Kurangnya area resapan air (sudah banyak seme",
+        "Latitude": 0.56181862304600005,
+        "Longitude": 101.42148604899999,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 3,
+        "Status_Tot": "Tidak Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42514956441758, 0.56855333969299149]
+      },
+      "properties": {
+        "FID": 36,
+        "Alamat_Dom": "Jalan rowosari no 2",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.56855333969300004,
+        "Longitude": 101.42514956399999,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 3,
+        "Status_Tot": "Tidak Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42534514907693, 0.56757102464403553]
+      },
+      "properties": {
+        "FID": 37,
+        "Alamat_Dom": "Jl.Rowosari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.567571024644,
+        "Longitude": 101.42534514899999,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 5,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42551681043955, 0.56590813644001281]
+      },
+      "properties": {
+        "FID": 38,
+        "Alamat_Dom": "Jl. Rowosari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Kurangnya area resapan air (sudah banyak semen/bangunan), Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.56590813644000004,
+        "Longitude": 101.42551681,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42545900674727, 0.56538725301847481]
+      },
+      "properties": {
+        "FID": 39,
+        "Alamat_Dom": "jl tegal sari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.56538725301799997,
+        "Longitude": 101.425459007,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 5,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44468294907692, 0.56401508137534528]
+      },
+      "properties": {
+        "FID": 40,
+        "Alamat_Dom": "Jl. Laksana perum permata land D7",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah, Kondisi saluran drainase/parit rusak atau tertutup bangunan, Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.564015081375,
+        "Longitude": 101.444682949,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 5,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42530223373629, 0.5687618668706379]
+      },
+      "properties": {
+        "FID": 41,
+        "Alamat_Dom": "jl rowo sari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air, Kurangnya area resapan air (sudah banyak semen/bangunan), Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.56876186687100005,
+        "Longitude": 101.425302234,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 3,
+        "Status_Tot": "Tidak Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42360291826408, 0.56455044450552339]
+      },
+      "properties": {
+        "FID": 42,
+        "Alamat_Dom": "Jalan Tegal Sari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi, Saluran drainase/parit tersumbat oleh sampah, Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.564550444506,
+        "Longitude": 101.423602918,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 5,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4247125429833, 0.64124589572817525]
+      },
+      "properties": {
+        "FID": 43,
+        "Alamat_Dom": "Rumbai, Pekanbaru",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah, Ukuran saluran drainase/parit terlalu kecil untuk menampung air, Wilayah kami memang merupakan dataran rendah/cekungan, Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.64124589572799995,
+        "Longitude": 101.424712543,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 3,
+        "Status_Tot": "Tidak Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.41716815887916, 0.57790101726710164]
+      },
+      "properties": {
+        "FID": 44,
+        "Alamat_Dom": "Jl. Umban Sari Atas",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.57790101726700005,
+        "Longitude": 101.417168159,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4244047581966, 0.56916818243243894]
+      },
+      "properties": {
+        "FID": 45,
+        "Alamat_Dom": "Jl. Umban Sari Tengah",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.56916818243199996,
+        "Longitude": 101.42440475799999,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.41487081782408, 0.55495758883073043]
+      },
+      "properties": {
+        "FID": 46,
+        "Alamat_Dom": "Jl. Paus",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.55495758883099999,
+        "Longitude": 101.414870818,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42301283212385, 0.56441097638767879]
+      },
+      "properties": {
+        "FID": 47,
+        "Alamat_Dom": "Jl. Tegal Sari",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.56441097638799997,
+        "Longitude": 101.423012832,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.43952095079152, 0.56028690348164667]
+      },
+      "properties": {
+        "FID": 48,
+        "Alamat_Dom": "Jl. Khayangan",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.56028690348200005,
+        "Longitude": 101.43952095100001,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4231988914066, 0.57419442102094764]
+      },
+      "properties": {
+        "FID": 49,
+        "Alamat_Dom": "Jl. Patria Sari",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.57419442102100005,
+        "Longitude": 101.423198891,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42531296257145, 0.56823617979187047]
+      },
+      "properties": {
+        "FID": 50,
+        "Alamat_Dom": "Jl. Rowosari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.56823617979200003,
+        "Longitude": 101.425312963,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44451128771429, 0.56357522040156649]
+      },
+      "properties": {
+        "FID": 51,
+        "Alamat_Dom": "Jl. Permata Land",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.56357522040200003,
+        "Longitude": 101.444511288,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44541457791209, 0.56179599648348266]
+      },
+      "properties": {
+        "FID": 52,
+        "Alamat_Dom": "Jl. Laksana",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.56179599648300005,
+        "Longitude": 101.445414578,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.39720606199994, 0.59798678782692027]
+      },
+      "properties": {
+        "FID": 53,
+        "Alamat_Dom": "Jl. Sri Palas",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.59798678782699999,
+        "Longitude": 101.397206062,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.3973953914066, 0.60896223637151392]
+      },
+      "properties": {
+        "FID": 54,
+        "Alamat_Dom": "Jl. Tengku Maratu",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.60896223637199998,
+        "Longitude": 101.397395391,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47057027495545, 0.5763548264009658]
+      },
+      "properties": {
+        "FID": 55,
+        "Alamat_Dom": "Jl. Family",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.576354826401,
+        "Longitude": 101.470570275,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.46620553710808, 0.57889431666111835]
+      },
+      "properties": {
+        "FID": 56,
+        "Alamat_Dom": "Jl. Pramuka Ujung",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.578894316661,
+        "Longitude": 101.46620553699999,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.46399281610952, 0.56930507446832679]
+      },
+      "properties": {
+        "FID": 57,
+        "Alamat_Dom": "Jl. Limbungan",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.56930507446800005,
+        "Longitude": 101.463992816,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4718045350109, 0.55984838567888262]
+      },
+      "properties": {
+        "FID": 58,
+        "Alamat_Dom": "Jl. Putri Ayu",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.55984838567899997,
+        "Longitude": 101.471804535,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.41847879852985, 0.57468197699655377]
+      },
+      "properties": {
+        "FID": 59,
+        "Alamat_Dom": "Jl. Umban Sari Atas",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.57468197699699997,
+        "Longitude": 101.418478799,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42369214611345, 0.56907822549298959]
+      },
+      "properties": {
+        "FID": 60,
+        "Alamat_Dom": "Jl. Umban Sari Tengah",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.56907822549300002,
+        "Longitude": 101.42369214599999,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.43553678088654, 0.56916405192437936]
+      },
+      "properties": {
+        "FID": 61,
+        "Alamat_Dom": "Jl. Paus",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.56916405192399999,
+        "Longitude": 101.435536781,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42789785000483, 0.56399300582067291]
+      },
+      "properties": {
+        "FID": 62,
+        "Alamat_Dom": "Jl. Tegal Sari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.56399300582099998,
+        "Longitude": 101.42789784999999,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44298636454916, 0.56039418670943364]
+      },
+      "properties": {
+        "FID": 63,
+        "Alamat_Dom": "Jl. Khayangan",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.56039418670899999,
+        "Longitude": 101.442986365,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42325253561023, 0.58141456048384232]
+      },
+      "properties": {
+        "FID": 64,
+        "Alamat_Dom": "Jl. Patria Sari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.58141456048399998,
+        "Longitude": 101.42325253600001,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42532369140662, 0.56812889670868416]
+      },
+      "properties": {
+        "FID": 65,
+        "Alamat_Dom": "Jl. Rowosari",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.56812889670900002,
+        "Longitude": 101.425323691,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44481169509885, 0.56332846910905021]
+      },
+      "properties": {
+        "FID": 66,
+        "Alamat_Dom": "Jl. Permata Land",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.56332846910900003,
+        "Longitude": 101.444811695,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44551113742855, 0.56234314078349301]
+      },
+      "properties": {
+        "FID": 67,
+        "Alamat_Dom": "Jl. Laksana",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.56234314078299996,
+        "Longitude": 101.445511137,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.3981501995606, 0.60619389421344261]
+      },
+      "properties": {
+        "FID": 68,
+        "Alamat_Dom": "Jl. Sri Palas",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.60619389421299996,
+        "Longitude": 101.3981502,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.39618303303318, 0.60967029949688645]
+      },
+      "properties": {
+        "FID": 69,
+        "Alamat_Dom": "Jl. Tengku Maratu",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.60967029949700002,
+        "Longitude": 101.396183033,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47274012814459, 0.57382340208995153]
+      },
+      "properties": {
+        "FID": 70,
+        "Alamat_Dom": "Jl. Family",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.57382340209000005,
+        "Longitude": 101.472740128,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47471963114602, 0.56689808401532038]
+      },
+      "properties": {
+        "FID": 71,
+        "Alamat_Dom": "Jl. Pramuka Ujung",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.56689808401499997,
+        "Longitude": 101.474719631,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47320982019971, 0.5654738040781313]
+      },
+      "properties": {
+        "FID": 72,
+        "Alamat_Dom": "Jl. Limbungan",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.56547380407799996,
+        "Longitude": 101.47320981999999,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47075310904118, 0.56043844346398086]
+      },
+      "properties": {
+        "FID": 73,
+        "Alamat_Dom": "Jl. Putri Ayu",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.56043844346399996,
+        "Longitude": 101.470753109,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.41227788435987, 0.57388904112423988]
+      },
+      "properties": {
+        "FID": 74,
+        "Alamat_Dom": "Jl. Umban Sari Atas",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.57388904112399997,
+        "Longitude": 101.41227788400001,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42834424629467, 0.56923952069468431]
+      },
+      "properties": {
+        "FID": 75,
+        "Alamat_Dom": "Jl. Umban Sari Tengah",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.56923952069499995,
+        "Longitude": 101.42834424599999,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.43796766925425, 0.56929929056638373]
+      },
+      "properties": {
+        "FID": 76,
+        "Alamat_Dom": "Jl. Paus",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.56929929056600004,
+        "Longitude": 101.437967669,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42332333058798, 0.56431846650471906]
+      },
+      "properties": {
+        "FID": 77,
+        "Alamat_Dom": "Jl. Tegal Sari",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.56431846650499995,
+        "Longitude": 101.42332333100001,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44875847837162, 0.56046928497131321]
+      },
+      "properties": {
+        "FID": 78,
+        "Alamat_Dom": "Jl. Khayangan",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.56046928497100001,
+        "Longitude": 101.448758478,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42322882744648, 0.57129113081891691]
+      },
+      "properties": {
+        "FID": 79,
+        "Alamat_Dom": "Jl. Patria Sari",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.57129113081899996,
+        "Longitude": 101.423228827,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42529537994525, 0.56819608849626924]
+      },
+      "properties": {
+        "FID": 80,
+        "Alamat_Dom": "Jl. Rowosari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.56819608849600001,
+        "Longitude": 101.42529537999999,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44524067617668, 0.56421768701167951]
+      },
+      "properties": {
+        "FID": 81,
+        "Alamat_Dom": "Jl. Permata Land",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.56421768701200004,
+        "Longitude": 101.445240676,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44542530674725, 0.56247188061134779]
+      },
+      "properties": {
+        "FID": 82,
+        "Alamat_Dom": "Jl. Laksana",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.56247188061099995,
+        "Longitude": 101.44542530699999,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.39598297479134, 0.59630245207963728]
+      },
+      "properties": {
+        "FID": 83,
+        "Alamat_Dom": "Jl. Sri Palas Gg",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.59630245207999999,
+        "Longitude": 101.395982975,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47429332385612, 0.57784988622305999]
+      },
+      "properties": {
+        "FID": 84,
+        "Alamat_Dom": "Jl. Family",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.57784988622300004,
+        "Longitude": 101.474293324,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4680199693112, 0.57045091600133946]
+      },
+      "properties": {
+        "FID": 85,
+        "Alamat_Dom": "Jl. Pramuka Ujung",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.57045091600099995,
+        "Longitude": 101.468019969,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.46775187723664, 0.56988795048476093]
+      },
+      "properties": {
+        "FID": 86,
+        "Alamat_Dom": "Jl. Limbungan",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.56988795048499996,
+        "Longitude": 101.467751877,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47249710729703, 0.56404382886860294]
+      },
+      "properties": {
+        "FID": 87,
+        "Alamat_Dom": "Jl. Putri Ayu",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.56404382886899995,
+        "Longitude": 101.472497107,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.40534570988713, 0.57866763021384282]
+      },
+      "properties": {
+        "FID": 88,
+        "Alamat_Dom": "Jl. Umban Sari Atas",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.57866763021400003,
+        "Longitude": 101.40534571000001,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.41344209053911, 0.57035719317382771]
+      },
+      "properties": {
+        "FID": 89,
+        "Alamat_Dom": "Jl. Umban Sari Tengah",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.57035719317400002,
+        "Longitude": 101.41344209099999,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44471964080337, 0.56972288565406093]
+      },
+      "properties": {
+        "FID": 90,
+        "Alamat_Dom": "Jl. Paus",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.56972288565399998,
+        "Longitude": 101.44471964100001,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4265698067411, 0.5662914754571815]
+      },
+      "properties": {
+        "FID": 91,
+        "Alamat_Dom": "Jl. Tegal Sari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.56629147545699998,
+        "Longitude": 101.42656980700001,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44500995220206, 0.56703118716552203]
+      },
+      "properties": {
+        "FID": 92,
+        "Alamat_Dom": "Jl. Khayangan",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.56703118716599998,
+        "Longitude": 101.44500995200001,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42319325165936, 0.58069400236183988]
+      },
+      "properties": {
+        "FID": 93,
+        "Alamat_Dom": "Jl. Patria Sari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.58069400236199997,
+        "Longitude": 101.423193252,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42527718737891, 0.56746821882215293]
+      },
+      "properties": {
+        "FID": 94,
+        "Alamat_Dom": "Jl. Rowosari",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.56746821882200005,
+        "Longitude": 101.42527718700001,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44198092531947, 0.56770495278550459]
+      },
+      "properties": {
+        "FID": 95,
+        "Alamat_Dom": "Jl. Permata Land",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.56770495278599997,
+        "Longitude": 101.441980925,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44142851828929, 0.56591629362476159]
+      },
+      "properties": {
+        "FID": 96,
+        "Alamat_Dom": "Jl. Laksana",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.56591629362499996,
+        "Longitude": 101.441428518,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.39703440043833, 0.59731090795238551]
+      },
+      "properties": {
+        "FID": 97,
+        "Alamat_Dom": "Jl. Sri Palas",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.59731090795200004,
+        "Longitude": 101.3970344,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.39568149821659, 0.61362905771312259]
+      },
+      "properties": {
+        "FID": 98,
+        "Alamat_Dom": "Jl. Tengku Maratu",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.61362905771300003,
+        "Longitude": 101.395681498,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47096030796517, 0.57815289902585076]
+      },
+      "properties": {
+        "FID": 99,
+        "Alamat_Dom": "Jl. Family",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.57815289902599998,
+        "Longitude": 101.470960308,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47287006216007, 0.57199589783702853]
+      },
+      "properties": {
+        "FID": 100,
+        "Alamat_Dom": "Jl. Pramuka Ujung",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.571995897837,
+        "Longitude": 101.472870062,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.46784965013157, 0.5694613836233624]
+      },
+      "properties": {
+        "FID": 101,
+        "Alamat_Dom": "Jl. Limbungan",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.56946138362300003,
+        "Longitude": 101.46784965000001,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.47284523207554, 0.56435427994424858]
+      },
+      "properties": {
+        "FID": 102,
+        "Alamat_Dom": "Jl. Putri Ayu",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.564354279944,
+        "Longitude": 101.472845232,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.41858416284687, 0.58280194679948538]
+      },
+      "properties": {
+        "FID": 103,
+        "Alamat_Dom": "Jl. Umban Sari Atas",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.58280194679899999,
+        "Longitude": 101.41858416300001,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.41907499001032, 0.57337854433720237]
+      },
+      "properties": {
+        "FID": 104,
+        "Alamat_Dom": "Jl. Umban Sari Atas",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.57337854433699997,
+        "Longitude": 101.41907499,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.41320210066355, 0.56140130403906496]
+      },
+      "properties": {
+        "FID": 105,
+        "Alamat_Dom": "Jl. Paus",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.56140130403900002,
+        "Longitude": 101.413202101,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42381749496734, 0.56466845596977766]
+      },
+      "properties": {
+        "FID": 106,
+        "Alamat_Dom": "Jl. Tegal Sari",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Intensitas hujan yang sangat tinggi",
+        "Latitude": 0.56466845597000004,
+        "Longitude": 101.42381749499999,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.43930637408826, 0.56026544683584256]
+      },
+      "properties": {
+        "FID": 107,
+        "Alamat_Dom": "Jl. Khayangan",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Saluran drainase/parit tersumbat oleh sampah",
+        "Latitude": 0.56026544683599999,
+        "Longitude": 101.439306374,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42313289269573, 0.57114919964700905]
+      },
+      "properties": {
+        "FID": 108,
+        "Alamat_Dom": "Jl. Patria Sari",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Ukuran saluran drainase/parit terlalu kecil untuk menampung air",
+        "Latitude": 0.57114919964699995,
+        "Longitude": 101.423132893,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42564555646149, 0.56561847199438231]
+      },
+      "properties": {
+        "FID": 109,
+        "Alamat_Dom": "Jl. Rowosari",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Jarang (sekali setahun atau kurang)",
+        "Ketinggian": "Setinggi lutut hingga pinggang (50 - 100 cm)",
+        "Durasi_Sur": "Lama (3 - 6 jam)",
+        "Faktor_Pen": "Kondisi saluran drainase/parit rusak atau tertutup bangunan",
+        "Latitude": 0.56561847199399995,
+        "Longitude": 101.42564555600001,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44472586441755, 0.56351085050018312]
+      },
+      "properties": {
+        "FID": 110,
+        "Alamat_Dom": "Jl. Permata Land",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Tidak tentu",
+        "Ketinggian": "Lebih dari 1 meter",
+        "Durasi_Sur": "Sangat lama (lebih dari 6 jam atau perlu disedot)",
+        "Faktor_Pen": "Wilayah kami memang merupakan dataran rendah/cekungan",
+        "Latitude": 0.56351085050000005,
+        "Longitude": 101.44472586400001,
+        "Nilai_Frek": 1,
+        "Status_Fre": "Tidak Rawan",
+        "Nilai_Keti": 5,
+        "Status_Ket": "Tinggi",
+        "Nilai_Dura": 5,
+        "Status_Dur": "Tinggi",
+        "Skor_Total": 11,
+        "Status_Tot": "Sangat Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44541457791209, 0.56127030877441841]
+      },
+      "properties": {
+        "FID": 111,
+        "Alamat_Dom": "Jl. Laksana",
+        "Kecamatan": "Kec. Rumbai",
+        "Frekuensi": "Hampir setiap kali hujan (meski intensitas sedang)",
+        "Ketinggian": "Di bawah mata kaki (\u003c 15 cm)",
+        "Durasi_Sur": "Sangat cepat (kurang dari 1 jam)",
+        "Faktor_Pen": "Kurangnya area resapan air (sudah banyak semen/bangunan)",
+        "Latitude": 0.56127030877399997,
+        "Longitude": 101.445414578,
+        "Nilai_Frek": 5,
+        "Status_Fre": "Rawan",
+        "Nilai_Keti": 1,
+        "Status_Ket": "Rendah",
+        "Nilai_Dura": 1,
+        "Status_Dur": "Rendah",
+        "Skor_Total": 7,
+        "Status_Tot": "Cukup Rawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.39582204226389, 0.59299814860826083]
+      },
+      "properties": {
+        "FID": 112,
+        "Alamat_Dom": "Jl. Sri Palas",
+        "Kecamatan": "Kec. Rumbai Barat",
+        "Frekuensi": "Hanya saat hujan sangat lebat (2-5 kali setahun)",
+        "Ketinggian": "Setinggi mata kaki hingga lutut (15 - 50 cm)",
+        "Durasi_Sur": "Cepat (1 - 3 jam)",
+        "Faktor_Pen": "Luapan dari sungai atau parit besar di sekitar",
+        "Latitude": 0.59299814860800004,
+        "Longitude": 101.39582204200001,
+        "Nilai_Frek": 3,
+        "Status_Fre": "Cukup Rawan",
+        "Nilai_Keti": 3,
+        "Status_Ket": "Sedang",
+        "Nilai_Dura": 3,
+        "Status_Dur": "Sedang",
+        "Skor_Total": 9,
+        "Status_Tot": "Rawan"
+      }
+    }
+  ]
+}
